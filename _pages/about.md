@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hong Kong University of Science and Technology (Guangzhou)
 
 profile:
   align: right
@@ -12,7 +12,8 @@ profile:
     <p>1 Duxue Rd</p>
     <p>Guangzhou, China</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
+posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
