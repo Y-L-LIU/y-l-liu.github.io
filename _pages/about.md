@@ -8,10 +8,7 @@ profile:
   align: right
   image: yule.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>1 Duxue Rd</p>
-    <p>Guangzhou, China</p>
-
+  more_info: 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
